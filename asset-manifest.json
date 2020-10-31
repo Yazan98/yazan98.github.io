@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3d4d515.chunk.css",
+    "main.js": "/static/js/main.fb82f489.chunk.js",
+    "main.js.map": "/static/js/main.fb82f489.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.9441550d.chunk.js": "/static/js/2.9441550d.chunk.js",
+    "static/js/2.9441550d.chunk.js.map": "/static/js/2.9441550d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42f51bec0f088d63c7251c545d6ffdee.js": "/precache-manifest.42f51bec0f088d63c7251c545d6ffdee.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a3d4d515.chunk.css.map": "/static/css/main.a3d4d515.chunk.css.map",
+    "static/js/2.9441550d.chunk.js.LICENSE.txt": "/static/js/2.9441550d.chunk.js.LICENSE.txt",
+    "static/media/Java_logo.png": "/static/media/Java_logo.711f654d.png",
+    "static/media/android.png": "/static/media/android.d63d981f.png",
+    "static/media/denamo.png": "/static/media/denamo.d4253f0a.png",
+    "static/media/destiny.png": "/static/media/destiny.7744262e.png",
+    "static/media/drasati.png": "/static/media/drasati.a52da424.png",
+    "static/media/github.png": "/static/media/github.dadad85c.png",
+    "static/media/header.png": "/static/media/header.b68a0afb.png",
+    "static/media/java_script.png": "/static/media/java_script.8b8524a4.png",
+    "static/media/kotlin.png": "/static/media/kotlin.e8c4671b.png",
+    "static/media/mwarrid.png": "/static/media/mwarrid.ba9fc21e.png",
+    "static/media/netflix.png": "/static/media/netflix.6a2eb816.png",
+    "static/media/portfolio.png": "/static/media/portfolio.24f4ed3f.png",
+    "static/media/pwalogo.svg": "/static/media/pwalogo.b50455e0.svg",
+    "static/media/react_logo.png": "/static/media/react_logo.e5fcc8e4.png",
+    "static/media/spring.png": "/static/media/spring.0881dacc.png",
+    "static/media/thentrom.png": "/static/media/thentrom.e4feab14.png",
+    "static/media/wintrop.png": "/static/media/wintrop.e4e8862e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.9441550d.chunk.js",
+    "static/css/main.a3d4d515.chunk.css",
+    "static/js/main.fb82f489.chunk.js"
+  ]
+}
