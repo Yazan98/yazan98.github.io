@@ -6,16 +6,19 @@
     {
       "src": "port_logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "port_logo.png",
       "type": "image/png",
+      "purpose": "maskable",
       "sizes": "192x192"
     },
     {
       "src": "port_logo.png",
       "type": "image/png",
+      "purpose": "maskable",
       "sizes": "512x512"
     }
   ],
